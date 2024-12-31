@@ -1,0 +1,8 @@
+const standortDaten = [
+    { ort: "Mannheim", landkreis: "Mannheim", kuerzel: "MA" },
+    { ort: "Heidelberg", landkreis: "Heidelberg", kuerzel: "HD" },
+    { ort: "Edingen", landkreis: "Rhein-Neckar-Kreis", kuerzel: "HD" },
+    { ort: "Weinheim", landkreis: "Rhein-Neckar-Kreis", kuerzel: "HD" },
+    { ort: "Speyer", landkreis: "Stadt Speyer", kuerzel: "SP" },
+    // Weitere Einträge...
+];
