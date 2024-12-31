@@ -1,6 +1,6 @@
 const standortDaten = [
     { ort: "Mannheim", landkreis: "Mannheim", kuerzel: "MA" },
-//Mannheim//
+// Mannheim
 { ort: "Sandhofen", landkreis: "Mannheim", kuerzel: "MA" },
 { ort: "Vogelstang", landkreis: "Mannheim", kuerzel: "MA" },
 { ort: "Schönau", landkreis: "Mannheim", kuerzel: "MA" },
